@@ -12,7 +12,7 @@ Test code example using CasperJS and PhantomCSS.
 
 ## Example of execution (Success)
 
-```shell
+```bash
 $ casperjs test testsuite.js
 Test file: testsuite.js
 
